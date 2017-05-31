@@ -1,17 +1,18 @@
-# TKPPL
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+Draggable Dual-View Slideshow
+=========
 
-## View slides locally
+A draggable slideshow with two views: fullscreen and small carousel. In fullscreen view, a related content area can be viewed.
 
-First, ensure you have the following installed:
+[Article on Codrops](http://tympanus.net/codrops/?p=19332)
 
-1. [Node.js](http://nodejs.org)
-2. [Bower](http://bower.io): `$ npm install -g bower`
-3. [Gulp](http://gulpjs.com): `$ npm install -g gulp`
+[Demo](http://tympanus.net/Development/DraggableDualViewSlideshow/)
 
-Then, install dependencies and run the preview server:
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
-```bash
-$ npm install && bower install
-$ gulp serve
-```
+Read more here: [License](http://tympanus.net/codrops/licensing/)
+
+[Dragdealer.js 0.9.7](http://github.com/skidding/dragdealer) by Ovidiu Cherecheș
+
+Images by [Unsplash](http://unsplash.com)
+
+[© Codrops 2014](http://www.codrops.com)
