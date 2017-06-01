@@ -40,7 +40,7 @@ html.js,
 
 .dragslider h2 {
 	font-family: 'Playfair Display', serif;
-	font-size: 8em;
+	font-size: 4em;
 	font-weight: 700;
 	margin: 0 auto;
 	line-height: 1;
@@ -344,7 +344,7 @@ button.content-switch::before {
 }
 
 .pages .content h2 {
-	font-size: 5em;
+	font-size: 3em;
 	max-width: 70%;
 	color: #34495e;
 	padding: 2.25em 10px 1em;
