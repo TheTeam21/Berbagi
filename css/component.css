@@ -322,8 +322,9 @@ button.content-switch::before {
 .pages .content {
 	background: #dfe3e3;
 	text-align: center;
-	color: #545b61;
+	color: #00008b;
 	font-size: 1.5em;
+	background-image: url(../img/sfw.jpg)no-repeat;
 }
 
 .js .pages .content {
@@ -363,7 +364,7 @@ button.content-switch::before {
 	margin: 0 auto;
 	padding: 0.5em 2em;
 	line-height: 1.5;
-	text-align: left;
+	text-align: justify;
 	font-family: 'Book Antiqua', Palatino, 'Palatino Linotype', 'Palatino LT STD', Georgia, serif;
 }
 
