@@ -1,7 +1,7 @@
 TKPPL
 =========
 
-## Microsoft Hololens
+## Google Glass
 ---------------------
 Disusun Oleh :
 
